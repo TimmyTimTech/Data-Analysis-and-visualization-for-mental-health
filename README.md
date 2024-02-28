@@ -1,0 +1,1 @@
+By visualizing the data, we can gain insights into the relationships and patterns between the variables, and identify trends and anomalies that may be useful .
